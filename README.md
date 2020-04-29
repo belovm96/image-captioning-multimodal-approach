@@ -1,2 +1,2 @@
 # image-captioning-multimodal-approach
-Implementation of Multimodal Approach for Image Captioning Algorithm
+Implementation of Encoder-Decoder Approach for Image Captioning Algorithm

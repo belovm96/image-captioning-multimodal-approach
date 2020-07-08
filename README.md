@@ -1,2 +1,2 @@
 # image-captioning-multimodal-approach
-Implementation of Encoder-Decoder Approach for Image Captioning with Conditioned LSTMs
+Image Captioning with Conditioned LSTMs

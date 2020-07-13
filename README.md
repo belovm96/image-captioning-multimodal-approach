@@ -1,2 +1,2 @@
-# image-captioning-with-deep-learning
+# Image Captioning With CNN+LSTMs
 Exploration of Deep Learning approaches for Image Captioning.
